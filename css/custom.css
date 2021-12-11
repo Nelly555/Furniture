@@ -1,0 +1,76 @@
+
+body{
+  background-image:url("../images/img_3.jpg");
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul.timeline {
+    list-style-type: none;
+    position: relative;
+}
+ul.timeline:before {
+    content: ' ';
+    background: #d4d9df;
+    display: inline-block;
+    position: left;
+    left: 29px;
+    width: 2px;
+    height: 100%;
+    z-index: 400;
+}
+
+.NewFont {
+  font-family: 'Merriweather', serif;
+  font-size:30px;
+  color:greenyellow;
+} 
+
+.nav-NewFont{
+font-family: 'Merriweather', serif;
+font-size:20px;
+color:rgb(45, 168, 21);
+}
+
+.newFont{
+font-family: 'Merriweather', serif;
+font-size:35px;
+color:rgb(29, 104, 14);
+
+}
+
+.P-NewFont{
+font-family: 'Niconne', cursive;
+font-size:20px;
+color:white;
+}
+
+.p-newfont{
+ 
+font-size:20px;
+color:black;
+
+}
+
+.P-New-font{
+font-family: 'Niconne', cursive;
+font-size:20px;
+color:green;
+}
+
+.Font-new{
+  font-family: 'Merriweather', serif;
+  font-size:15px;
+  color:rgb(45, 168, 21);
+}
+
+
+
+
+
+
+
+
